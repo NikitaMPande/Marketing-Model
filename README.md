@@ -17,7 +17,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 Code
 
-* Template code is provided in the CarPricePrediction.ipynb notebook file. You will also be required to use the Car Price Prediction.xlsx dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+* Template code is provided in the ####MLR on Marketing Dataset.ipynb notebook file. You will also be required to use the ####Advertising.csv dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
 
 Run
 
