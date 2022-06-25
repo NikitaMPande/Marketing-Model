@@ -1,6 +1,6 @@
 # Marketing-Model
 This is Linear Regression Model
-#                                                             LinearRegression-Car-Price-Prediction
+#                                                             LinearRegression-Marketing-Model
 
 ### Supervised Learning
 #### Project:Marketing-Model
